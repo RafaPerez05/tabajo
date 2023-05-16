@@ -13,6 +13,7 @@ namespace TABAJOED{
             jogador1.ca = 0;
             jogador1.clube = "Santos";
 //aaaaaaaa
+//yanlindo
             jogador1.aumentaCA(2);
             jogador1.aumentaCV(2);
             Console.WriteLine(jogador1.imprimir());
