@@ -1,6 +1,7 @@
 ﻿using JogadorFutebol;
 using EquipeEsports;
 using Produtos;
+using Professores;
 
 namespace TABAJOED{
     class Program
@@ -41,6 +42,22 @@ namespace TABAJOED{
             Console.WriteLine(produto1.imprimir());
             Console.WriteLine(produto1.verificarQuantidadeEmEstoque());
             Console.WriteLine(produto1.aplicarCupomDescontoValor());
+
+
+            //Struct Professor  
+            Professor professor1 = new();
+            professor1.nome = "Gilmar";
+            professor1.salario = 10000;
+            professor1.faltas = 20;
+            professor1.cargaH = 10;
+
+            Console.WriteLine(professor1.imprimir());
+            Console.WriteLine(professor1.reajusteSalarialEmValor(200));
+            Console.WriteLine(professor1.reajusteSalarialEmPorcentagem(20));
+            Console.WriteLine(professor1.descontoSalarialPorFaltaEmValor());
+            Console.WriteLine(professor1.descontoSalarialPorFaltaEmPorcentagem(10));
+            Console.WriteLine(professor1.aumentarCargaHorariaDeTrabalho(5));
+
 
 
         }
