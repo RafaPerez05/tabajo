@@ -13,3 +13,18 @@ C:\Users\aluno\Desktop\tabajoED\obj\Debug\net6.0\refint\tabajoED.dll
 C:\Users\aluno\Desktop\tabajoED\obj\Debug\net6.0\tabajoED.pdb
 C:\Users\aluno\Desktop\tabajoED\obj\Debug\net6.0\tabajoED.genruntimeconfig.cache
 C:\Users\aluno\Desktop\tabajoED\obj\Debug\net6.0\ref\tabajoED.dll
+C:\Users\User\Área de Trabalho\tabajo\bin\Debug\net6.0\tabajoED.exe
+C:\Users\User\Área de Trabalho\tabajo\bin\Debug\net6.0\tabajoED.deps.json
+C:\Users\User\Área de Trabalho\tabajo\bin\Debug\net6.0\tabajoED.runtimeconfig.json
+C:\Users\User\Área de Trabalho\tabajo\bin\Debug\net6.0\tabajoED.dll
+C:\Users\User\Área de Trabalho\tabajo\bin\Debug\net6.0\tabajoED.pdb
+C:\Users\User\Área de Trabalho\tabajo\obj\Debug\net6.0\tabajoED.csproj.AssemblyReference.cache
+C:\Users\User\Área de Trabalho\tabajo\obj\Debug\net6.0\tabajoED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Área de Trabalho\tabajo\obj\Debug\net6.0\tabajoED.AssemblyInfoInputs.cache
+C:\Users\User\Área de Trabalho\tabajo\obj\Debug\net6.0\tabajoED.AssemblyInfo.cs
+C:\Users\User\Área de Trabalho\tabajo\obj\Debug\net6.0\tabajoED.csproj.CoreCompileInputs.cache
+C:\Users\User\Área de Trabalho\tabajo\obj\Debug\net6.0\tabajoED.dll
+C:\Users\User\Área de Trabalho\tabajo\obj\Debug\net6.0\refint\tabajoED.dll
+C:\Users\User\Área de Trabalho\tabajo\obj\Debug\net6.0\tabajoED.pdb
+C:\Users\User\Área de Trabalho\tabajo\obj\Debug\net6.0\tabajoED.genruntimeconfig.cache
+C:\Users\User\Área de Trabalho\tabajo\obj\Debug\net6.0\ref\tabajoED.dll
